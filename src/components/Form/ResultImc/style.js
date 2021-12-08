@@ -7,6 +7,7 @@ const styles = StyleSheet.create({
       paddingTop: 15,
       alignItems: "center",
       width: "100%",
+      justifyContent: "space-between"
     },
     numberImc:{
       fontSize: 48,
