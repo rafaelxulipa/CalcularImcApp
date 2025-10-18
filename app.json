@@ -31,6 +31,11 @@
       "favicon": "./assets/favicon.png"
     },
     "description": "",
-    "githubUrl": "https://github.com/rafaelxulipa/CalcularImcApp"
+    "githubUrl": "https://github.com/rafaelxulipa/CalcularImcApp",
+    "extra": {
+      "eas": {
+        "projectId": "34276135-ddd3-4658-9211-66270853460c"
+      }
+    }
   }
 }
